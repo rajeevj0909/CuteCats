@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="button1">Cat1</string>
+    <string name="button2">Cat2</string>
+    <string name="button3">Cat3</string>
+    <string name="button4">Cat4</string>
+    <string name="button5">Cat5</string>
+    <string name="button6">EXIT</string>
+    <string name="button7">Cat 2</string>
+    <string name="button8">Cat 3</string>
+    <string name="button9">Cat 4</string>
+    <string name="button10">Cat 5</string>
+    <string name="button11">Cat 1</string>
+    <string name="welcome_to_cute_cats">Welcome To Cute Cats</string>
+</resources>
